@@ -8,4 +8,4 @@ branches:
 
 addons:
   code_climate:
-    repo_token: 47c5f256811330209a2e5a2be79b309a7b06ad2e2524804f68159bfc068b06cb
+    repo_token: 2ff474f6e1afd53d72ea16b3395ab8ee38742311a953d2011e88272f4a1c6beb

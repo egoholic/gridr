@@ -1,5 +1,7 @@
 # Gridr
 
+[![Code Climate](https://codeclimate.com/github/egoholic/gridr.png)](https://codeclimate.com/github/egoholic/gridr)
+
 TODO: Write a gem description
 
 ## Installation

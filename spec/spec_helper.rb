@@ -8,6 +8,5 @@ require File.expand_path("../../lib/gridr", __FILE__)
 Dir["./spec/support/**/*.rb"].sort.each {|f| require f}
 
 RSpec.configure do |config|
-
   config.order = "random"
 end
